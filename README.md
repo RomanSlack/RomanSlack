@@ -20,7 +20,7 @@ Project manager of RIT AI Club; translator of chaos into ChatGPT wrapper workflo
 - Quantized delusion synthesis  
 - Regression-based disillusionment  
 - Aura coding (vibe coding is for interns)  
-- Rats  
+- C++++ and Python 2
 
 ---
 
