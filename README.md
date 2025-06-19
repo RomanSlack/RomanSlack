@@ -7,20 +7,20 @@ Simulation maximalist. Startup survivor. Fullstacker turned reality distorter.
 
 ## "Experience"
 
-Chief agent-wrangler at SimuVerse, deploying LLMs into Unity-based alternate realities.  
-Lead AI engineer at Levangie Labs — built it, scaled it, then learned the startup laws of thermodynamics.  
+Chief agent creator at SimuVerse, deploying LLMs into Unity-based alternate realities.  
+Former Lead AI engineer at Levangie Labs — built it, scaled it, then learned the startup laws of thermodynamics.  
 Current cognitive illusionist at the AFRL Information Directorate.  
-Project manager of RIT AI Club; translator of chaos into ChatGPT wrapper workflows.  
+Project manager of RIT AI Club;  
 
 ---
 
 ## Currently Learning
 
 - High-fidelity multiverse interpolation  
-- Quantized delusion synthesis  
+- Quantized algorithmic synthesis  
 - Regression-based disillusionment  
-- Aura coding (vibe coding is for interns)  
-- C++++ and Python 2
+- Aura coding (vibe coding is obsolete)  
+- C+++ and Python 2
 
 ---
 
