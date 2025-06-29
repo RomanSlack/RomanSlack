@@ -19,7 +19,6 @@ Project manager of RIT AI Club;
 - High-fidelity multiverse interpolation  
 - Quantized algorithmic synthesis
 - How to further the evolution of apes utilizing NLP.
-- Regression-based disillusionment  
 - Aura coding (vibe coding is obsolete)  
 - C+++ and Python 2
 
