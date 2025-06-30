@@ -1,7 +1,7 @@
 # Roman Slack
 
 AI Researcher @ AFRL | SimuVerse Architect | Matrix Emulator  
-Simulation maximalist. Startup survivor. Fullstacker turned reality distorter.
+Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
 ---
 
