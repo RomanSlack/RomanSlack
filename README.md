@@ -9,7 +9,7 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
 * Chief architect of agent systems at SimuVerse, integrating LLMs into Unity-based simulated environments.
 * Former Lead AI Engineer at Levangie Labs, led end-to-end development and scaling of AI systems in a fast-paced startup.
-* Currently conducting cognitive systems research at the AFRL Information Directorate.
+* Currently conducting applied AI research at the AFRL Information Directorate.
 * Project manager at RIT AI Club, overseeing multi-agent research and development initiatives.
 
 ---
