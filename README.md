@@ -7,10 +7,10 @@ Simulation maximalist. Startup survivor. Fullstacker turned reality distorter.
 
 ## "Experience"
 
-Chief agent creator at SimuVerse, deploying LLMs into Unity-based alternate realities.  
-Former Lead AI engineer at Levangie Labs — built it, scaled it, then learned the startup laws of thermodynamics.  
-Current cognitive illusionist at the AFRL Information Directorate.  
-Project manager of RIT AI Club;  
+Chief architect of agent systems at SimuVerse, integrating LLMs into Unity-based simulated environments.
+Former Lead AI Engineer at Levangie Labs — led end-to-end development and scaling of AI systems in a fast-paced startup.
+Currently conducting cognitive systems research at the AFRL Information Directorate.
+Project manager at RIT AI Club, overseeing multi-agent research and development initiatives.
 
 ---
 
