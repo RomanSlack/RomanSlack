@@ -25,7 +25,8 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 ---
 
 > Simulation is just compression with good storytelling.  
-> Aura code or don’t code at all.  
-
+> Aura code or don’t code at all.
+> 
+[romanslack.com](https://www.romanslack.com)  
 [github.com/RomanSlack](https://github.com/RomanSlack)  
 [linkedin.com/in/roman-slack-a91a6a266](https://www.linkedin.com/in/roman-slack-a91a6a266)
