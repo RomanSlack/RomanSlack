@@ -1,6 +1,6 @@
 # Roman Slack
 
-Lead AI Platform Engineer @ Just-Tech LLC | SimuVerse Architect | Matrix Emulator  
+Lead AI Platform Engineer @ Just-Tech LLC | RL addict | Matrix Emulator  
 Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
 ---
