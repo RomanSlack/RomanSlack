@@ -27,4 +27,5 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 ---
 
 [romanslack.com](https://www.romanslack.com)  
-[linkedin.com/in/roman-slack-a91a6a266](https://www.linkedin.com/in/roman-slack-a91a6a266)
+[linkedin.com/in/roman-slack-a91a6a266](https://www.linkedin.com/in/roman-slack-a91a6a266) <br>
+[https://www.youtube.com/@roman-slack](https://www.youtube.com/@roman-slack)
