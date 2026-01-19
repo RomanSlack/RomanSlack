@@ -23,7 +23,7 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 - How to further the evolution of apes utilizing NLP.
 - Aura coding (vibe coding is obsolete)  
 - C+++ and Python 2
-- 
+  
 ---
 
 ## Currently Building For Fun - The Reach
