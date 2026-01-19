@@ -23,8 +23,21 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 - How to further the evolution of apes utilizing NLP.
 - Aura coding (vibe coding is obsolete)  
 - C+++ and Python 2
-
+- 
 ---
+
+## Currently Building For Fun - The Reach
+
+<p align="center">
+  <a href="https://github.com/RomanSlack/The_Reach">
+  <img src="https://raw.githubusercontent.com/RomanSlack/The_Reach/main/readme_images/The_reach_2_readme_banner.jpg" width="600"/>
+</p>
+
+<p align="center">
+  The Reach is a project management and AI orchestration platform that turns projects into interactive 3D worlds with procedurally generated landscapes and dynamic ecosystems.
+</p>
+
+
 
 [romanslack.com](https://www.romanslack.com)  
 [linkedin.com/in/roman-slack-a91a6a266](https://www.linkedin.com/in/roman-slack-a91a6a266) <br>
