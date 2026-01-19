@@ -34,7 +34,7 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 </p>
 
 <p align="center">
-  The Reach is a project management and AI orchestration platform that turns projects into interactive 3D worlds with procedurally generated landscapes and dynamic ecosystems.
+  The Reach is a project management and AI orchestration platform that turns projects into interactive 3D worlds with procedurally generated landscapes and dynamic ecosystems. As you work your settlement progresses.
 </p>
 
 
