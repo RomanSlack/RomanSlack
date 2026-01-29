@@ -18,8 +18,8 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 ## Currently Learning
 
 - Near-Telepathy using (SSR) silent speech recognition, (Look it up very cool stuff)
-- Archictctural Design
 - How to form a better relationship with Claude Code.
+- Archictctural Design
 - How to build the machine god instead of getting a gf
 - Aura coding (vibe coding is obsolete)  
 - C+++ and Python 2
