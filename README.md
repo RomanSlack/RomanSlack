@@ -26,16 +26,17 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
   
 ---
 
-## Currently Building For Fun - The Reach
+## Currently Building For Fun - f(x) University
+                                                                                
+  <p align="center">                                                
+    <a href="https://fxuniversity.world">
+      <img src="https://raw.githubusercontent.com/RomanSlack/f_x_university/main/github-banner.png" width="600"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/RomanSlack/The_Reach">
-  <img src="https://raw.githubusercontent.com/RomanSlack/The_Reach/main/readme_images/The_reach_2_readme_banner.jpg" width="600"/>
-</p>
-
-<p align="center">
-  The Reach is a project management and AI orchestration platform that turns projects into interactive 3D worlds with procedurally generated landscapes and dynamic ecosystems. As you work your settlement progresses.
-</p>
+  <p align="center">
+    AGI is Coming. Plug in your school or degree — get the f(x). Every major and 1,000 US universities scored 0-100 on AI automation risk, unemployment acceleration,debt-to-salary ratio, and post-AGI employability. Features an interactive USA choropleth map, AGI/Singularity mode slider, personal risk calculator, and real-time debt clock. Built to help high schoolers make the most important financial decision of their lives with actual data instead of vibes.
+  </p>
 
 
 
