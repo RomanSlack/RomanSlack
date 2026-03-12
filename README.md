@@ -35,7 +35,7 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
   </p>
 
   <p align="center">
-    AGI is Coming. Plug in your school or degree — get the f(x). Every major and 1,000 US universities scored 0-100 on AI automation risk, unemployment acceleration,debt-to-salary ratio, and post-AGI employability. Features an interactive USA choropleth map, AGI/Singularity mode slider, personal risk calculator, and real-time debt clock. Built to help high schoolers make the most important financial decision of their lives with actual data instead of vibes.
+    AGI is Coming. Plug in your school or degree - get the f(x). Every major and 1,000 US universities scored 0-100 on AI automation risk, unemployment acceleration,debt-to-salary ratio, and post-AGI employability. Features an interactive USA choropleth map, AGI/Singularity mode slider, personal risk calculator, and real-time debt clock. Built to help high schoolers make the most important financial decision of their lives with actual data instead of vibes.
   </p>
 
 
