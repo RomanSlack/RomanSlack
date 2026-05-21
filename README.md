@@ -19,7 +19,7 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
 - Near-Telepathy using (SSR) silent speech recognition, (Look it up very cool stuff)
 - How to form a better relationship with Claude Code.
-- Archictctural Design
+- Architectural Design
 - How to build the machine god instead of getting a gf
 - Aura coding (vibe coding is obsolete)  
 - C+++ and Python 2
