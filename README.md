@@ -26,16 +26,16 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
   
 ---
 
-## Currently Building For Fun - f(x) University
-                                                                                
-  <p align="center">                                                
-    <a href="https://fxuniversity.world">
-      <img src="https://raw.githubusercontent.com/RomanSlack/f_x_university/main/github-banner.png" width="600"/>
+## Currently Building For Fun - The Gym
+
+  <p align="center">
+    <a href="https://github.com/RomanSlack/the_gym">
+      <img src="https://raw.githubusercontent.com/RomanSlack/the_gym/main/docs/img/readme/github_banner.jpg" width="600"/>
     </a>
   </p>
 
   <p align="center">
-    AGI is Coming. Plug in your school or degree - get the f(x). Every major and 1,000 US universities scored 0-100 on AI automation risk, unemployment acceleration,debt-to-salary ratio, and post-AGI employability. Features an interactive USA choropleth map, AGI/Singularity mode slider, personal risk calculator, and real-time debt clock. Built to help high schoolers make the most important financial decision of their lives with actual data instead of vibes.
+    A luxury Nordic gym built into a forest ravine in Elverum, Norway, designed entirely through conversation with Claude. Four floors step down a rock gorge to below the river: a lounge bridge with a walk-on glass floor over the water, a waist-high river window, round oak locker rooms that glow cloudberry, moss and fjord, a stone grotto shower, and little oak cleaning robots called Vaskebjørn. Every piece of furniture is generated from code (no asset packs), the building is constructed stage by stage like a real crew would, and every version can be replayed with the prompt that caused it. The experiment: can a person and an AI picture the same building and get it to buildable quality purely through talking?
   </p>
 
 
