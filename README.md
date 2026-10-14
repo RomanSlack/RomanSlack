@@ -30,12 +30,12 @@ Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
   <p align="center">
     <a href="https://github.com/RomanSlack/the_gym">
-      <img src="https://raw.githubusercontent.com/RomanSlack/the_gym/main/docs/img/readme/github_banner.jpg" width="600"/>
+      <img src="https://raw.githubusercontent.com/RomanSlack/the_gym/main/docs/img/readme/github_banner_v2.jpg" width="600"/>
     </a>
   </p>
 
   <p align="center">
-    A luxury Nordic gym built into a forest ravine in Elverum, Norway, designed entirely through conversation with Claude. Four floors step down a rock gorge to below the river: a lounge bridge with a walk-on glass floor over the water, a waist-high river window, round oak locker rooms that glow cloudberry, moss and fjord, a stone grotto shower, and little oak cleaning robots called Vaskebjørn. Every piece of furniture is generated from code (no asset packs), the building is constructed stage by stage like a real crew would, and every version can be replayed with the prompt that caused it. The experiment: can a person and an AI picture the same building and get it to buildable quality purely through talking?
+    The experiment: can a person and an AI picture the same building and get it to buildable quality purely through talking? So far that's a luxury Nordic gym built into a forest ravine in Elverum, Norway, designed entirely through conversation with Claude. Four floors step down a rock gorge to below the river: a lounge bridge with a walk-on glass floor over the water, a waist-high river window, round oak locker rooms that glow cloudberry, moss and fjord, a stone grotto shower, and little oak cleaning robots called Vaskebjørn. Every piece of furniture is generated from code (no asset packs), the building is constructed stage by stage like a real crew would, and every version can be replayed with the prompt that caused it.
   </p>
 
 
