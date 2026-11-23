@@ -1,13 +1,16 @@
 # Roman Slack
 
-Lead AI Platform Engineer @ Just-Tech LLC | RL addict | Matrix Emulator  
+Co-Founder / CTO @ ThirdAxis AI | Forward Deployed Engineer | RL addict | Matrix Emulator  
 Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
 
 ---
 
 ## "Experience"
 
-* Currently leading AI product development in the legal services sector @ Just-Tech LLC. https://jtai.law
+* Co-Founder / CTO and Forward Deployed Engineer @ ThirdAxis AI. We build custom software and AI that businesses actually own, not pilots that go nowhere. Dozens of companies across many industries so far, including public companies. https://thirdaxis.ai
+* Co-Founder @ on hand. AI employees for any business: a bookkeeper, a front desk, a support rep, with a real person on our team answering for the work. https://on-hand.ai
+* Built JTAI from zero at Just-Tech LLC, then ran it as Principal AI Platform Engineer and Head of R&D. Still on contract there. https://jtai.law
+* Recently talked AI with nearly 1,000 high school students back home in Rapid City, South Dakota. https://romanslack.com/projects/talking-ai-with-high-school-students.html
 * Researcher in the missile intercept trenches, integrating LLMs into Unity-based simulated environments.
 * Former Lead AI Engineer at Levangie Labs, led end-to-end development and scaling of AI systems in a fast-paced startup.
 * Conducted applied AI research at the Air Force Research Laboratory Information Directorate.
