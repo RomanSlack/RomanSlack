@@ -1,7 +1,7 @@
 # Roman Slack
 
 Co-Founder / CTO @ ThirdAxis AI | Forward Deployed Engineer | RL addict | Matrix Emulator  
-Simulation maximalist. Startup survivor. Halfstacker turned Fullstacker
+Simulation maximalist. Startup survivor.
 
 ---
 
